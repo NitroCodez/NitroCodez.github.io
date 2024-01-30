@@ -1,0 +1,59 @@
+
+	a:link{
+color:#fcba03;
+}
+
+a:visited{
+color:#fcba03;
+}
+
+a:hover{
+color:blue;
+}
+
+a:active{
+color:blue;
+}
+
+.morbackground {
+background-color:gray
+}
+
+.banner {
+	height:50px;
+	width:100%;
+	background-color:#424240;
+	font-size: 30px;
+	color:#d1d1c9;
+	margin-bottom: 30px;
+}
+
+p{
+font-size:20px;	
+color:#deded7;
+}
+
+.navitem {
+list-style-type:none;
+display:inline;
+margin-right:.3em;
+padding:2px 5px;
+}
+
+#navmenu {
+text-align:center;
+background-color:#424240;
+color:white;
+}
+
+
+.yes {
+	font-size:25px;
+}
+
+#footer {
+	height:200px;
+	width:100%;
+	background-color:#424240;
+	font-size: 30px
+}
